@@ -1,2 +1,2 @@
-# 30DaysOfSolidity
- 30 days of solidity with codedamn.com
+DAY 1
+Print "Hello Solidity"
