@@ -1,4 +1,4 @@
-DAY 1
+[DAY 1](https://github.com/amarachiugwu/30DaysOfSolidity/blob/main/day1.sol)
 Print "Hello Solidity"
 
 DAY 2
