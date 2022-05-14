@@ -9,3 +9,6 @@ Define a set and get function to assign new value and return current value of a 
 
 ## [Day 4](https://github.com/amarachiugwu/30DaysOfSolidity/blob/main/day4.sol)
 Return the difference of the sum and difference of two numbers
+
+## [Day 5](https://github.com/amarachiugwu/30DaysOfSolidity/blob/main/day5.sol)
+Return the remainder of a number greater than 0 when divided by 3 using a function 
