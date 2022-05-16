@@ -15,3 +15,6 @@ Return the remainder of a number greater than 0 when divided by 3 using a functi
 
 ## [Day 6](https://github.com/amarachiugwu/30DaysOfSolidity/blob/main/day6.sol)
 Return the average of 3 numbers greater than zero using a function 
+
+## [Day 7](https://github.com/amarachiugwu/30DaysOfSolidity/blob/main/day7.sol)
+Return the sum of digit of a given number
