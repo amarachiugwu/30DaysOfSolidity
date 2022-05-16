@@ -11,10 +11,10 @@ Define a set and get function to assign new value and return current value of a 
 Return the difference of the sum and difference of two numbers
 
 ## [Day 5](https://github.com/amarachiugwu/30DaysOfSolidity/blob/main/day5.sol)
-Return the remainder of a number greater than 0 when divided by 3 using a function 
+Return the remainder of a number greater than 0 when divided by 3
 
 ## [Day 6](https://github.com/amarachiugwu/30DaysOfSolidity/blob/main/day6.sol)
-Return the average of 3 numbers greater than zero using a function 
+Return the average of 3 numbers greater than zero
 
 ## [Day 7](https://github.com/amarachiugwu/30DaysOfSolidity/blob/main/day7.sol)
-Return the sum of digit of a given number
+Return the sum of digits of a given number
