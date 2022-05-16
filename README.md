@@ -12,3 +12,6 @@ Return the difference of the sum and difference of two numbers
 
 ## [Day 5](https://github.com/amarachiugwu/30DaysOfSolidity/blob/main/day5.sol)
 Return the remainder of a number greater than 0 when divided by 3 using a function 
+
+## [Day 6](https://github.com/amarachiugwu/30DaysOfSolidity/blob/main/day6.sol)
+Return the average of 3 numbers greater than zero using a function 
