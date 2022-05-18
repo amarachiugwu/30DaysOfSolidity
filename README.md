@@ -18,3 +18,6 @@ Return the average of 3 numbers greater than zero
 
 ## [Day 7](https://github.com/amarachiugwu/30DaysOfSolidity/blob/main/day7.sol)
 Return the sum of digits of a given number
+
+## [Day 8](https://github.com/amarachiugwu/30DaysOfSolidity/blob/main/day8.sol)
+Return the next term of a series, S, where the next term is the sum of the previous three terms.  
