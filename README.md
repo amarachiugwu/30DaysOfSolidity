@@ -20,4 +20,7 @@ Return the average of 3 numbers greater than zero
 Return the sum of digits of a given number
 
 ## [Day 8](https://github.com/amarachiugwu/30DaysOfSolidity/blob/main/day8.sol)
-Return the next term of a series, S, where the next term is the sum of the previous three terms.  
+Return the next term of a series, S, where the next term is the sum of the previous three terms. 
+
+## [Day 9](https://github.com/amarachiugwu/30DaysOfSolidity/blob/main/day9.sol)
+check if a number is prime or not. Return 1 if a number is prime and 0 otherwise. 
