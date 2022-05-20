@@ -23,4 +23,7 @@ Return the sum of digits of a given number
 Return the next term of a series, S, where the next term is the sum of the previous three terms. 
 
 ## [Day 9](https://github.com/amarachiugwu/30DaysOfSolidity/blob/main/day9.sol)
-check if a number is prime or not. Return 1 if a number is prime and 0 otherwise. 
+check if a number is prime or not. Return 1 if a number is prime and 0 otherwise.
+
+## [Day 10](https://github.com/amarachiugwu/30DaysOfSolidity/blob/main/day10.sol)
+Return the value of x raised to y, where y is a positive integer and x is any real number
