@@ -27,3 +27,6 @@ check if a number is prime or not. Return 1 if a number is prime and 0 otherwise
 
 ## [Day 10](https://github.com/amarachiugwu/30DaysOfSolidity/blob/main/day10.sol)
 Return the value of x raised to y, where y is a positive integer and x is any real number
+
+## [Day 11](https://github.com/amarachiugwu/30DaysOfSolidity/blob/main/day11.sol)
+check if a number is a palindrome or not. Return 1 if a number is a palindrome and 0 otherwise.
