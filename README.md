@@ -133,7 +133,7 @@ Use str as a variable to store value.
 `For Example - If array =[2,5,9,11,1] then sort() will return [1,2,5,9,11] If array =[90,20,30,10] then sort() will return [10,20,30,90]`
 #
 
-## [Day 15](https://github.com/amarachiugwu/30DaysOfSolidity/blob/main/day15.sol)
+## [Day 16](https://github.com/amarachiugwu/30DaysOfSolidity/blob/main/day16.sol)
 ### Return the number of distinct elements in an array.
 - Create a function distinct(array, length of array). 
 
