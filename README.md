@@ -107,3 +107,14 @@ Use str as a variable to store value.
 - The reverseArray() will reverse the array. 
 `For Example - If array =[2,5,9,11,1] then reverseArray() will return [1,11,9,5,2] If array =[90,20,30,10] then reverseArray() will return [10,30,20,90]`
 #
+
+## [Day 14](https://github.com/amarachiugwu/30DaysOfSolidity/blob/main/day14.sol)
+### Return an even array (multiply each element of an array by 2).
+- Create a function even(array, length of array).
+
+- This even() will take two arguments - a dynamic uint type array and length of the array.
+
+- The even() will multiply each element of array with 2. 
+
+`For Example - If array =[2,5,11,1] then even() will return [4,10,22,2,] If array =[1,3,5,7] then even() will return [2,6,10,14]`
+#
