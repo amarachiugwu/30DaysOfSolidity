@@ -102,9 +102,12 @@ Use str as a variable to store value.
 
 ## [Day 13](https://github.com/amarachiugwu/30DaysOfSolidity/blob/main/day13.sol)
 ### Return the reverse of an array.
-- Create a function reverseArray(array, length of array) . 
+- Create a function reverseArray(array, length of array). 
+
 - This reverseArray() will take two arguments - a dynamic uint type array and length of the array.
+
 - The reverseArray() will reverse the array. 
+
 `For Example - If array =[2,5,9,11,1] then reverseArray() will return [1,11,9,5,2] If array =[90,20,30,10] then reverseArray() will return [10,30,20,90]`
 #
 
@@ -128,4 +131,15 @@ Use str as a variable to store value.
 - The sort() will sort the array elements in ascending order. 
 
 `For Example - If array =[2,5,9,11,1] then sort() will return [1,2,5,9,11] If array =[90,20,30,10] then sort() will return [10,20,30,90]`
+#
+
+## [Day 15](https://github.com/amarachiugwu/30DaysOfSolidity/blob/main/day15.sol)
+### Return the number of distinct elements in an array.
+- Create a function distinct(array, length of array). 
+
+- This distinct() will take two arguments - a dynamic uint type array and length of the array.
+
+- The distinct() will return the number of distinct elements in an array. 
+
+`For Example - If array =[4, 2, 3, 4] then distinct() will return 3. If array =[1, 1, 1] then distinct() will return 1.`
 #
