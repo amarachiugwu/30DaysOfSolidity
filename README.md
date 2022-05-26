@@ -32,6 +32,6 @@ Return the value of x raised to y, where y is a positive integer and x is any re
 check if a number is a palindrome or not. Return 1 if a number is a palindrome and 0 otherwise.
 
 ## [Day 12](https://github.com/amarachiugwu/30DaysOfSolidity/blob/main/day12.sol)
-# return the reverse of a number.
+### return the reverse of a number.
 For Example - If n=123 then reverseDigit() must return 321. If n=5342 then reverseDigit() must return 2435.
----
+#
