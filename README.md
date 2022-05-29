@@ -168,3 +168,14 @@ Use str as a variable to store value.
 `For Example - If array =[4, 2, 3, 4] then sumarray() will return 13 i.e. 4+2+3+4 = 13 If array =[1, 2, 3] then sumarray() will return 6 i.e. 1+2+3 = 6`
 #
 
+## [Day 19](https://github.com/amarachiugwu/30DaysOfSolidity/blob/main/day19.sol)
+### Find the sum of the series (1 + x + x^2+ x^3+ .. + x^n).
+- Find the sum of the series 1 + x + x^2+ x^3+ .. + x^n
+
+- Create a function expression(x,n).
+
+- The expression() will find the sum of the above expression. 
+
+`For Example - If x =2 n = 3 then expression() will return 13. If x =5 n = 1 then expression() will return 6.`
+#
+
