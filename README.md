@@ -179,3 +179,15 @@ Use str as a variable to store value.
 `For Example - If x =2 n = 3 then expression() will return 13. If x =5 n = 1 then expression() will return 6.`
 #
 
+## [Day 20](https://github.com/amarachiugwu/30DaysOfSolidity/blob/main/day20.sol)
+### Find the second largest element of an array.
+- Create a function secondMax(array, length of array).
+
+- This secondMax() will take two arguments - a dynamic int type array and length of the array.
+
+- The secondMax() will find the second largest element in an array. 
+
+`For Example - If array =[40, 12, 31, 6] then secondMax() will return 31. If array =[9, 122, 37, 54] then secondMax() will return 54.`
+#
+
+
