@@ -31,6 +31,10 @@ contract Day3 {
     //     return hcf(num1, num2 - num1);
     // }
 
+
+
+    // better solution 
+    
     function hcf(uint256 num1, uint256 num2)
     public
     pure
