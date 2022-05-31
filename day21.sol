@@ -31,7 +31,10 @@ contract Day3 {
     //     return hcf(num1, num2 - num1);
     // }
 
-    {
+    function hcf(uint256 num1, uint256 num2)
+    public
+    pure
+    returns(uint256){
         if (num2 == 0)
             return num1;
             
