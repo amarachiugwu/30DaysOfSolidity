@@ -191,18 +191,18 @@ Use str as a variable to store value.
 #
 
 ## [Day 21](https://github.com/amarachiugwu/30DaysOfSolidity/blob/main/day21.sol)
-### Find the HCF (Highest Common Factor).
+### Find the HCF (Highest Common Factor) of two numbers.
 #### HCF is the greatest number which divides each of the two or more numbers.
 
 - Create a function hcf(num1,num2). 
 
 - This hcf() will take two arguments uint type number1 and number2.
 
-- The hcf() will find the of number1 and number2.
+- The hcf() will find the Highest Common Factor of number1 and number2.
 
-- For Example - If num1 = 60 num2 = 75 then hcf() will return 15.
+`For Example - If num1 = 60 num2 = 75 then hcf() will return 15.`
 
-- If num1 = 31 and num2 = 23 then hcf() will return 1.
+`If num1 = 31 and num2 = 23 then hcf() will return 1.`
 #
 
 
