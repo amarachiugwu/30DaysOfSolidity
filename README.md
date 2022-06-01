@@ -205,4 +205,17 @@ Use str as a variable to store value.
 `If num1 = 31 and num2 = 23 then hcf() will return 1.`
 #
 
+## [Day 22](https://github.com/amarachiugwu/30DaysOfSolidity/blob/main/day22.sol)
+### Create a struct, define a setter and getter function for it.
+
+- Create a structure -> struct Book { string title; string author; uint256 book_id; }
+
+- Create two functions: 
+
+- a) setBook(title(string), author(string) id(uint)) To set the book title, author and id given in the structure.
+
+- b) getBook() - To get the book title,author and id.
+#
+
+
 
