@@ -217,5 +217,23 @@ Use str as a variable to store value.
 - b) getBook() - To get the book title,author and id.
 #
 
+## [Day 23](https://github.com/amarachiugwu/30DaysOfSolidity/blob/main/day23.sol)
+### Create a Book struct array, with a getter and a setter.
+
+- Create a structure -> struct Book { string title; string author; uint256 book_id; }
+
+- Create "Book type" dynamic array. This "Book type" array will contain different types of Book.
+
+- Create a counter( initialised by 1) which increases every time when a Book is added to the "Book type" array. 
+
+- This counter will act as an id for the Books added in the "Book type" array. 
+
+- Every Book in the "Book type" array will have a unique id.
+
+- Create two functions a) setBook(title(string),author(string),id(uint)) - To set the book title, author and id given in the "Book type" array. 
+
+-b) getBook(id(uint)) - To get the book title,author and id of the Book whoose id is passed as an argument.
+#
+
 
 
