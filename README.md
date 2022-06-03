@@ -232,7 +232,17 @@ Use str as a variable to store value.
 
 - Create two functions a) setBook(title(string),author(string),id(uint)) - To set the book title, author and id given in the "Book type" array. 
 
--b) getBook(id(uint)) - To get the book title,author and id of the Book whoose id is passed as an argument.
+- b) getBook(id(uint)) - To get the book title,author and id of the Book whoose id is passed as an argument.
+#
+
+## [Day 24](https://github.com/amarachiugwu/30DaysOfSolidity/blob/main/day24.sol)
+### Create a Student struct to store the name and marks of a student, define a getter and a setter.  
+
+- Create a structure -> struct Student { string name; uint256[3] marks; }
+
+- Create two functions a) set(name of student, marks in maths,marks in science,marks in english) - To set the name and marks of a student in marks array. 
+
+- b) get() - To get the name,marks in maths,marks in science and marks in english of the student.
 #
 
 
