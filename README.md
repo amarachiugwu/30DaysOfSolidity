@@ -245,5 +245,15 @@ Use str as a variable to store value.
 - b) get() - To get the name,marks in maths,marks in science and marks in english of the student.
 #
 
+## [Day 25](https://github.com/amarachiugwu/30DaysOfSolidity/blob/main/day25.sol)
+### Create a variable of type enum, define a setter and getter function for it.  
+
+- Create a variable of enum type.
+
+- Create a function setLarge(). This will set the value of the enum type variable (created at step 1) with LARGE.
+
+- Create a function getChoice() which will return the value of the enum type variable (created at step 1).
+#
+
 
 
