@@ -255,5 +255,15 @@ Use str as a variable to store value.
 - Create a function getChoice() which will return the value of the enum type variable (created at step 1).
 #
 
+## [Day 26](https://github.com/amarachiugwu/30DaysOfSolidity/blob/main/day26.sol)
+### Return the  Owner of a contract, only by the owner.  
+
+- Create a constructor() to hold the address of the owner. [Hint: use msg.sender]
+
+- Create a function returnOwner() which returns the address of the owner. This returnOwner() can only be called by the owner (that we set using constructor()). 
+
+- If some other address tries to call this returnOwner() it should revert with this statement "You are not the owner". 
+#
+
 
 
