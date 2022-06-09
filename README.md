@@ -327,6 +327,13 @@ Use str as a variable to store value.
 - concatenate ( ) - This function will take two arguments i.e string 1 and string 2. It will concatenate string 1 and string 2 and will return the concatenated string.
 #
 
+## [Challenge Completed](https://codedamn.com/certificate/verify/88c7cea1c8bfef3ab6731a1a26b0076b1aeed41a)
+### Certificate of completion.  
+
+#### Amarachi Ugwu has successfully completed course Solidity 30 day challenge and has got the certificate as a proof of work at [view certificate](https://codedamn.com/certificate/verify/88c7cea1c8bfef3ab6731a1a26b0076b1aeed41a)
+
+#
+
 
 
 
